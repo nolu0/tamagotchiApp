@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tamagotchi app</string>
+    <string name="status_hungry_happiness">status:$hungry: happiness:%1$s:%2$s</string>
+</resources>
